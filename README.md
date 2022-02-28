@@ -1,4 +1,4 @@
-# AutoAlignmer
+# AutoAlignmer-
 
 This code allows you to automatically cut large audio files into small ones, taking into account some filtering parameters
 
